@@ -25,7 +25,7 @@ before_filter :authorize, only: [:edit, :update]
   def show
     @question = Question.find(params[:id])
     @user = User.find(@question.user_id)
-    # @answer = Answer.new
+    @answer = Answer.new
     # @answers = Answer.all.order(top_vote: :desc)
   end
 

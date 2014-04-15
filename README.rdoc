@@ -1,6 +1,6 @@
 == README
 
-##Stack Overflow clone
+##Stack Overflow - Epicodus Project - Pairs: Tara Scherner de la Fuente and Jason Hamilton
 #Let's make a clone of Stack Overflow.
 
 -As a user, I want to ask a question, so that I can get help with a programming problem I'm having. Users must have an account and sign in to ask questions.
