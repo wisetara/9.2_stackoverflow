@@ -11,6 +11,7 @@ gem 'bootstrap-sass'
 gem 'bcrypt'
 gem 'paperclip', :git => 'git://github.com/thoughtbot/paperclip.git'
 gem 'textacular'
+gem 'letter_opener'
 
 group :development do
   gem 'better_errors'
